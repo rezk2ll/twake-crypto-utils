@@ -1,0 +1,14 @@
+src/
+tests/
+coverage/
+.github/
+.gitignore
+.eslintrc.json
+.prettierrc
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+AGENTS.md
+CLAUDE.md
+*.test.ts
+*.spec.ts
